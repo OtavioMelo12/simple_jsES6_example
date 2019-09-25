@@ -1,5 +1,4 @@
 import api from './api';
-import { PassThrough } from 'stream';
 
 class App {
     constructor() {
